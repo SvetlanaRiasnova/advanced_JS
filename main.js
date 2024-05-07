@@ -105,7 +105,7 @@ let client1 = {name : "Алексей"};
 let clientOrder1 = new Set();
 clientOrder1.add('Пицца"Пепперони"');
 clientOrder1.add('"Тирамису"');
-console.log(clientOrder1)
+
 
 let client2 = {name : "Мария"};
 let clientOrder2 = new Set();
